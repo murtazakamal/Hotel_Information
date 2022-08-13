@@ -1,0 +1,14 @@
+[
+
+        { 
+			name: Hotel Tyrol Deluxe
+        	stars: 5
+        	destination: Tyrol
+		},
+
+        { 
+			name: Hotel Playa Deluxe
+        	stars: 5
+        	destination: Mallorca
+		}
+]
